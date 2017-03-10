@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">HorusVideo2.0.1</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="Oceanicos_Group">OCEANICOS Group</string>
+    <string name="Select_Date">Select Date</string>
+    <string name="History">History</string>
+    <string name="Operational">Operational</string>
+    <string name="Prediction">Prediction</string>
+    <string name="Questions">Questions</string>
+    <string name="action_settings">Settings</string>
+    <string name="error_not_exist_date">Error! We do not have data for this date</string>
+    <string name="error_1">Sorry, we don\'t data for today, the latest data are from the day</string>
+    <string name="error_2">Sorry, we don\'t data for thit date, the data most recent is of the day</string>
+    <string name="error_3">Sorry, we don\'t data for this date, the oldest data is of the day</string>
+    <string name="error_4">Sorry, we don\'t data for this date, the closest data are from the days</string>
+    <string name="error_fecha_sin_camaras">Sorry, cameras no available</string>
+    <string name="Date">Date</string>
+    <string name="Hour">Hour</string>
+    <string name="Camera">Camera</string>
+    <string name="Station">Station</string>
+
+</resources>

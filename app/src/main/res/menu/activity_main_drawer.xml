@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_Date"
+            android:icon="@drawable/ic_date_range_black_24dp"
+            android:title="@string/Select_Date" />
+        <item
+            android:id="@+id/nav_History"
+            android:icon="@drawable/ic_timeline_black_24dp"
+            android:title="@string/History" />
+        <item
+            android:id="@+id/nav_Operational"
+            android:icon="@drawable/ic_directions_boat_black_24dp"
+            android:title="@string/Operational" />
+        <item
+            android:id="@+id/nav_Prediction"
+            android:icon="@drawable/ic_redo_black_24dp"
+            android:title="@string/Prediction" />
+        <item
+            android:id="@+id/nav_Questions"
+            android:icon="@drawable/ic_help_black_24dp"
+            android:title="@string/Questions" />
+    </group>
+
+    <item android:title="Communicate">
+        <menu>
+            <item
+                android:id="@+id/nav_share"
+                android:icon="@drawable/ic_menu_share"
+                android:title="Share" />
+
+        </menu>
+    </item>
+
+</menu>
